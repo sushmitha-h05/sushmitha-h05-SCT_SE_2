@@ -1,0 +1,18 @@
+? Welcome to the Number Guessing Game!
+Guess a number between 1 and 100
+Enter your guess: 50
+? Too high. Try again.
+Enter your guess: 20
+? Too low. Try again.
+Enter your guess: 30
+? Too low. Try again.
+Enter your guess: 40
+? Too low. Try again.
+Enter your guess: 45
+? Too low. Try again.
+Enter your guess: 46
+? Too low. Try again.
+Enter your guess: 48
+? Too high. Try again.
+Enter your guess: 47
+? Correct! You guessed the number in 8 attempts.
